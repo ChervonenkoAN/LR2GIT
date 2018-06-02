@@ -5,6 +5,7 @@ using namespace std;
 int main() 
 {
 	int n1 , n2 , m ;
+	cout << "-----------------------------------------------------------------" << endl;
 	cout << "Enter n " << endl ;
 	cin >> n1 >> n2 ;
 	cout << "Enter m " << endl ;
@@ -19,6 +20,8 @@ int main()
 				 {
 				 	cout << "Sum of digits n is less than m";
 				 }
+				 
+	cout << "------------------------------------------------------------------" << endl;
 		 
 	
 	return 0;
